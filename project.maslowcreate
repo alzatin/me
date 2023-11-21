@@ -10,9 +10,22 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.24844167408726628,
-            "y": 0.3506849315068493,
+            "x": 0.24042742653606414,
+            "y": 0.32054794520547947,
             "uniqueID": 548151,
+            "ioValues": [
+                {
+                    "name": "diameter",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
+            "atomType": "Circle",
+            "name": "Circle",
+            "x": 0.5939447907390918,
+            "y": 0.32054794520547947,
+            "uniqueID": 764936,
             "ioValues": [
                 {
                     "name": "diameter",
@@ -29,12 +42,16 @@
             "ioValues": []
         },
         {
-            "atomType": "Circle",
-            "name": "Circle",
-            "x": 0.4078361531611754,
-            "y": 0.5068493150684932,
-            "uniqueID": 764936,
+            "atomType": "RegularPolygon",
+            "name": "RegularPolygon",
+            "x": 0.4060552092609083,
+            "y": 0.610958904109589,
+            "uniqueID": 719229,
             "ioValues": [
+                {
+                    "name": "number of sides",
+                    "ioValue": 6
+                },
                 {
                     "name": "diameter",
                     "ioValue": 10
