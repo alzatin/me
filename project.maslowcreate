@@ -8,11 +8,24 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "Circle",
+            "name": "Circle",
+            "x": 0.24577025823686557,
+            "y": 0.547945205479452,
+            "uniqueID": 548151,
+            "ioValues": [
+                {
+                    "name": "diameter",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Output",
             "name": "Output",
-            "x": 0.9770114942528736,
+            "x": 2.9333333333333336,
             "y": 0.5,
-            "uniqueID": 966014,
+            "uniqueID": 136971,
             "ioValues": []
         }
     ],
