@@ -4,14 +4,19 @@
     "x": 0,
     "y": 0,
     "uniqueID": 287320,
-    "ioValues": [],
+    "ioValues": [
+        {
+            "name": "table height",
+            "ioValue": 10
+        }
+    ],
     "topLevel": true,
     "allAtoms": [
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.24042742653606414,
-            "y": 0.32054794520547947,
+            "x": 0.23646723646723647,
+            "y": 0.3013698630136986,
             "uniqueID": 548151,
             "ioValues": [
                 {
@@ -74,6 +79,14 @@
                     "ioValue": 10
                 }
             ]
+        },
+        {
+            "atomType": "Input",
+            "name": "Input209009",
+            "x": 0.013333333333333334,
+            "y": 0.6082191780821917,
+            "uniqueID": 773653,
+            "ioValues": []
         }
     ],
     "allConnectors": [],
