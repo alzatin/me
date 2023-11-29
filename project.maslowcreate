@@ -6,8 +6,8 @@
     "uniqueID": 287320,
     "ioValues": [
         {
-            "name": "Input209009",
-            "ioValue": 10
+            "name": "Table height",
+            "ioValue": "10"
         }
     ],
     "topLevel": true,
@@ -28,13 +28,13 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.5939447907390918,
-            "y": 0.32054794520547947,
+            "x": 0.5859449192782527,
+            "y": 0.20821917808219179,
             "uniqueID": 764936,
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 8
+                    "ioValue": "5"
                 }
             ]
         },
@@ -66,8 +66,8 @@
         {
             "atomType": "Extrude",
             "name": "Extrude",
-            "x": 0.4403815580286169,
-            "y": 0.31232876712328766,
+            "x": 0.4368471035137702,
+            "y": 0.2821917808219178,
             "uniqueID": 326483,
             "ioValues": [
                 {
