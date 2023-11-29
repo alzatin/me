@@ -7,7 +7,7 @@
     "ioValues": [
         {
             "name": "Input209009",
-            "ioValue": "5"
+            "ioValue": 10
         }
     ],
     "topLevel": true,
@@ -34,7 +34,7 @@
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": "5"
+                    "ioValue": 8
                 }
             ]
         },
