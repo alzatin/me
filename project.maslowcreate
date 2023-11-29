@@ -6,8 +6,8 @@
     "uniqueID": 287320,
     "ioValues": [
         {
-            "name": "table height",
-            "ioValue": 10
+            "name": "Input209009",
+            "ioValue": "5"
         }
     ],
     "topLevel": true,
