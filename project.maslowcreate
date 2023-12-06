@@ -11,7 +11,7 @@
         },
         {
             "name": "nameheight",
-            "ioValue": 10
+            "ioValue": "5"
         }
     ],
     "topLevel": true,
@@ -19,13 +19,13 @@
         {
             "atomType": "Circle",
             "name": "Circle",
-            "x": 0.23646723646723647,
-            "y": 0.3013698630136986,
+            "x": 0.2360890302066773,
+            "y": 0.2904109589041096,
             "uniqueID": 548151,
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 10
+                    "ioValue": "5"
                 }
             ]
         },
@@ -76,7 +76,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": ""
+                    "ioValue": 548151
                 },
                 {
                     "name": "height",
@@ -101,7 +101,22 @@
             "ioValues": []
         }
     ],
-    "allConnectors": [],
+    "allConnectors": [
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 548151,
+            "ap2ID": 326483
+        },
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "diameter",
+            "ap2Primary": false,
+            "ap1ID": 855804,
+            "ap2ID": 548151
+        }
+    ],
     "fileTypeVersion": 1,
     "simplify": false,
     "unitsIndex": 0,
