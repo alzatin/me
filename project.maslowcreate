@@ -10,7 +10,7 @@
             "ioValue": 10
         },
         {
-            "name": "name",
+            "name": "nameheight",
             "ioValue": 10
         }
     ],
@@ -94,9 +94,9 @@
         },
         {
             "atomType": "Input",
-            "name": "name",
+            "name": "nameheight",
             "x": 0.013333333333333334,
-            "y": 0.6164383561643836,
+            "y": 0.42739726027397257,
             "uniqueID": 855804,
             "ioValues": []
         }
